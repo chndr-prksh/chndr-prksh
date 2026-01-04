@@ -13,7 +13,7 @@ I work with data to analyze business, market, and product outcomes, using analyt
   Built lightweight data pipelines and automated reporting workflows using Python and APIs to reduce manual analysis and improve data availability.
 
 - 🧪 **Experimentation & Measurement**  
-  Supported A/B testing and performance measurement by designing metrics, analyzing results, and translating findings into business insights.
+  Supported A/B testing and performance measurement by designing metrics, analyzing results, and translating findings into business insights
 
 ### Tools I Use
 - Python, SQL, Excel – data extraction, analysis, automation  
