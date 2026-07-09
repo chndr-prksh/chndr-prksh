@@ -1,29 +1,44 @@
-## Hi, I’m Chandra 👋  
+# Hi, I'm Chandra 👋
 
-I work with data to analyze business, market, and product outcomes, using analytics to support real-world decision-making. Most of my work is project-driven, built around practical problems in finance, growth, and product analytics, using Python and SQL on real datasets.
+**Agentic Product Manager @ Laminar Group** building AI agents, automation systems, and open-source tools for product teams.
 
-### Projects & Work
-- 📊 Growth & Product Analytics  
-  Analyzed user funnels, cohorts, and attribution to understand acquisition, activation, and retention trends. Built dashboards and reports to track KPIs and support experimentation and go-to-market decisions.
+I enjoy turning repetitive product work into intelligent workflows. My projects combine product thinking, analytics, LLMs, and software engineering to build agents that help with research, experimentation, growth, and decision-making. Everything I build is practical, reusable, and, whenever possible, open-sourced for the community.
 
-- 📈 Market & Finance Analytics  
-  Worked with equity and derivatives market data to evaluate portfolio performance, risk exposure, and trading outcomes using rule-based quantitative analysis.
+## 🚀 What I'm Building
 
-- 🤖 Analytics & Automation
-  Built lightweight data pipelines and automated reporting workflows using Python and APIs to reduce manual analysis and improve data availability.
+### 🤖 AI Agents & Automation
 
-- 🧪 **Experimentation & Measurement**  
-  Supported A/B testing and performance measurement by designing metrics, analyzing results, and translating findings into business insights
+Building autonomous agents that automate product workflows—from job application agents and research assistants to browser automation, data pipelines, and internal tooling powered by LLMs.
 
-### Tools I Use
-- Python, SQL, Excel – data extraction, analysis, automation  
-- Analytics Platforms – Mixpanel, Metabase, GA4  
+### 📊 Product Analytics & Experimentation
 
-### Interests
-- Business and financial analytics  
-- Data-driven decision making  
-- Experimentation, measurement, and analytics systems  
-- Applying analytics to messy, real-world data  
+Designing analytics frameworks, event taxonomies, dashboards, and experimentation systems that help teams understand user behavior, measure impact, and make better product decisions.
 
-📫 Connect
-- LinkedIn: https://www.linkedin.com/in/chndrprksh/ 
+### 📈 Growth & Product Systems
+
+Building scalable systems for acquisition, activation, retention, and lifecycle automation using product analytics, APIs, and AI-driven workflows.
+
+### 🛠 Open Source
+
+Publishing practical repositories, templates, and frameworks for AI agents, product management, analytics, automation, and developer tooling to help others build faster.
+
+## ⚙️ Tech Stack
+
+* **Languages:** Python, SQL
+* **AI:** OpenAI, Claude, LangGraph, MCP, Agentic Workflows
+* **Data & Analytics:** Mixpanel, GA4, Metabase, PostgreSQL
+* **Automation:** Playwright, APIs, Supabase, GitHub Actions
+* **Tools:** Git, Docker, Cursor, Claude Code
+
+## 🌱 Interests
+
+* Agentic AI & autonomous systems
+* Product management
+* Product analytics & experimentation
+* Growth engineering
+* Developer tools & automation
+* Building in public & open source
+
+## 📫 Connect
+
+* LinkedIn: https://www.linkedin.com/in/chndrprksh/
