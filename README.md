@@ -39,6 +39,6 @@ Publishing practical repositories, templates, and frameworks for AI agents, prod
 * Developer tools & automation
 * Building in public & open source
 
-## 📫 Connect
+## 📫 Connect.
 
 * LinkedIn: https://www.linkedin.com/in/chndrprksh/
