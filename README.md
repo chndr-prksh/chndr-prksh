@@ -1,44 +1,15 @@
-# Hi, I'm Chandra 👋
+# 💫 About Me:
+Hi, I'm Chandra 👋<br>Agentic Product Manager @ Laminar Group building AI agents, automation systems, and open-source tools for product teams.<br><br>I enjoy turning repetitive product work into intelligent workflows. My projects combine product thinking, analytics, LLMs, and software engineering to build agents that help with research, experimentation, growth, and decision-making. Everything I build is practical, reusable, and, whenever possible, open-sourced for the community.<br><br>🚀 What I'm Building<br>🤖 AI Agents & Automation<br>Building autonomous agents that automate product workflows—from job application agents and research assistants to browser automation, data pipelines, and internal tooling powered by LLMs.<br><br>📊 Product Analytics & Experimentation<br>Designing analytics frameworks, event taxonomies, dashboards, and experimentation systems that help teams understand user behavior, measure impact, and make better product decisions.<br><br>📈 Growth & Product Systems<br>Building scalable systems for acquisition, activation, retention, and lifecycle automation using product analytics, APIs, and AI-driven workflows.<br><br>🛠 Open Source<br>Publishing practical repositories, templates, and frameworks for AI agents, product management, analytics, automation, and developer tooling to help others build faster.<br><br>⚙️ Tech Stack<br>Languages: Python, SQL<br>AI: OpenAI, Claude, LangGraph, MCP, Agentic Workflows<br>Data & Analytics: Mixpanel, GA4, Metabase, PostgreSQL<br>Automation: Playwright, APIs, Supabase, GitHub Actions<br>Tools: Git, Docker, Cursor, Claude Code<br>🌱 Interests<br>Agentic AI & autonomous systems<br>Product management<br>Product analytics & experimentation<br>Growth engineering<br>Developer tools & automation<br>Building in public & open source<br>📫 Connect.<br>LinkedIn: https://www.linkedin.com/in/chndrprksh/
 
-**Agentic Product Manager @ Laminar Group** building AI agents, automation systems, and open-source tools for product teams.
 
-I enjoy turning repetitive product work into intelligent workflows. My projects combine product thinking, analytics, LLMs, and software engineering to build agents that help with research, experimentation, growth, and decision-making. Everything I build is practical, reusable, and, whenever possible, open-sourced for the community.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=chndr-prksh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=chndr-prksh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=chndr-prksh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🚀 What I'm Building
+---
+[![](https://komarev.com/ghpvc/?username=chndr-prksh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🤖 AI Agents & Automation
-
-Building autonomous agents that automate product workflows—from job application agents and research assistants to browser automation, data pipelines, and internal tooling powered by LLMs.
-
-### 📊 Product Analytics & Experimentation
-
-Designing analytics frameworks, event taxonomies, dashboards, and experimentation systems that help teams understand user behavior, measure impact, and make better product decisions.
-
-### 📈 Growth & Product Systems
-
-Building scalable systems for acquisition, activation, retention, and lifecycle automation using product analytics, APIs, and AI-driven workflows.
-
-### 🛠 Open Source
-
-Publishing practical repositories, templates, and frameworks for AI agents, product management, analytics, automation, and developer tooling to help others build faster.
-
-## ⚙️ Tech Stack
-
-* **Languages:** Python, SQL
-* **AI:** OpenAI, Claude, LangGraph, MCP, Agentic Workflows
-* **Data & Analytics:** Mixpanel, GA4, Metabase, PostgreSQL
-* **Automation:** Playwright, APIs, Supabase, GitHub Actions
-* **Tools:** Git, Docker, Cursor, Claude Code
-
-## 🌱 Interests
-
-* Agentic AI & autonomous systems
-* Product management
-* Product analytics & experimentation
-* Growth engineering
-* Developer tools & automation
-* Building in public & open source
-
-## 📫 Connect.
-
-* LinkedIn: https://www.linkedin.com/in/chndrprksh/
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
