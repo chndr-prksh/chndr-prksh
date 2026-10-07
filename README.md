@@ -1,15 +1,81 @@
-# 💫 About Me:
-Hi, I'm Chandra 👋<br>Agentic Product Manager @ Laminar Group building AI agents, automation systems, and open-source tools for product teams.<br><br>I enjoy turning repetitive product work into intelligent workflows. My projects combine product thinking, analytics, LLMs, and software engineering to build agents that help with research, experimentation, growth, and decision-making. Everything I build is practical, reusable, and, whenever possible, open-sourced for the community.<br><br>🚀 What I'm Building<br>🤖 AI Agents & Automation<br>Building autonomous agents that automate product workflows—from job application agents and research assistants to browser automation, data pipelines, and internal tooling powered by LLMs.<br><br>📊 Product Analytics & Experimentation<br>Designing analytics frameworks, event taxonomies, dashboards, and experimentation systems that help teams understand user behavior, measure impact, and make better product decisions.<br><br>📈 Growth & Product Systems<br>Building scalable systems for acquisition, activation, retention, and lifecycle automation using product analytics, APIs, and AI-driven workflows.<br><br>🛠 Open Source<br>Publishing practical repositories, templates, and frameworks for AI agents, product management, analytics, automation, and developer tooling to help others build faster.<br><br>⚙️ Tech Stack<br>Languages: Python, SQL<br>AI: OpenAI, Claude, LangGraph, MCP, Agentic Workflows<br>Data & Analytics: Mixpanel, GA4, Metabase, PostgreSQL<br>Automation: Playwright, APIs, Supabase, GitHub Actions<br>Tools: Git, Docker, Cursor, Claude Code<br>🌱 Interests<br>Agentic AI & autonomous systems<br>Product management<br>Product analytics & experimentation<br>Growth engineering<br>Developer tools & automation<br>Building in public & open source<br>📫 Connect.<br>LinkedIn: https://www.linkedin.com/in/chndrprksh/
+# Chandra Prakash
 
+**Senior AI Product Manager** · San Francisco, CA
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=chndr-prksh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=chndr-prksh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=chndr-prksh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chndrprksh-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chndrprksh/)
+[![GitHub](https://img.shields.io/badge/GitHub-chndr--prksh-181717?logo=github&logoColor=white)](https://github.com/chndr-prksh)
 
----
-[![](https://komarev.com/ghpvc/?username=chndr-prksh&icon=0&color=0)](https://visitcount.itsvg.in)
+AI-focused Product Manager with 6+ years of experience turning customer problems into 0→1 AI and data products, spanning agentic AI, multimodal RAG, and personalized recommendation systems. I combine customer discovery, product strategy, experimentation, and hands-on technical execution to launch and scale products.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I also build what I spec. The projects below are working, open-source tools.
+
+## Contents
+
+- [Featured projects](#featured-projects)
+- [Experience](#experience)
+- [Education](#education)
+- [Skills](#skills)
+- [Connect](#connect)
+
+## Featured projects
+
+### AI products and agents
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [shipgate](https://github.com/chndr-prksh/shipgate) | Go/no-go eval harness that scores an AI feature against a quality bar and returns GO / NO-GO with a CI exit code. | Evals, CI |
+| [Enterprise-AI-Chat-Agent](https://github.com/chndr-prksh/Enterprise-AI-Chat-Agent) | AI agent platform with RAG, a file search API, and configurable multi-agent creation for document analysis and content generation. | TypeScript |
+| [murmur](https://github.com/chndr-prksh/murmur) | News-grounded forecasts by Claude, with a one-million-person reaction simulation that runs in the browser. | JavaScript |
+| [Lookout-Assist](https://github.com/chndr-prksh/Lookout-Assist) | Multimodal "point-and-understand" assistant for unfamiliar objects, control panels, foreign-language signs, and software crashes. | TypeScript |
+| [evoo](https://github.com/chndr-prksh/evoo) | Free voice dictation for Mac that runs 100% on-device. Hold fn, speak, release. | Swift |
+| [Ad-Intel-LinkedIn-](https://github.com/chndr-prksh/Ad-Intel-LinkedIn-) | Crawls the LinkedIn Ad Library, enriches creatives with Gemini, and generates brand and competitor dashboards. | TypeScript |
+
+### Markets and data
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [ledgerline](https://github.com/chndr-prksh/ledgerline) | Daily rule-based buy / exit / sell signals for liquid US and NSE stocks, with an open method, a backtest, and a public append-only signal log. | Python, GitHub Actions |
+| [pigeonai](https://github.com/chndr-prksh/pigeonai) | Open-source NSE stock scanner and charting site with 53 scans on split/bonus-adjusted end-of-day data. | TypeScript |
+| [pm-jobs-usa](https://github.com/chndr-prksh/pm-jobs-usa) | Product Management job listings across 60+ companies, refreshed automatically every 24 hours. | Python |
+
+## Experience
+
+### Senior AI Product Manager, Laminar Group
+*Enterprise SaaS · San Francisco, CA · Dec 2023 – Present*
+
+- Own the AI product portfolio for an enterprise work-management platform serving 100+ enterprise customers managing $10B+ in annual project value; launched packaged AI tiers that drove **$3M in incremental ARR**.
+- Led 0→1 development of multi-agent AI solutions that synthesize documents, images, chats, forms, and tables into grounded, actionable outputs. Designed autonomy boundaries, tool permissions, and confidence-based escalation, achieving **>80% task completion** with near-zero critical incidents.
+- Increased AI answer acceptance from **61% to 84%** by turning customer feedback and failure patterns into evaluation requirements: golden datasets, human-calibrated LLM-as-judge, regression gates, and human-in-the-loop review.
+- Optimized quality, latency, and inference cost through model selection, complexity-based routing, and caching; established quality SLOs and cost-per-task economics for deployment across 100+ enterprise tenants.
+
+### Product Manager, Trinkerr
+*Social Media · Bangalore, India · Apr 2021 – Dec 2023*
+
+- Conceptualized the product strategy and launch of a Twitter-like social network for the trading community through 100+ customer interviews, competitive and regulatory research, and a beta launch to validate product-market fit.
+- Led the transition from a chronological to an algorithmic personalized feed, defining ranking objectives and running ranking experiments with data science; increased session duration by **15%** and retention by **12%**.
+- Designed the creator growth roadmap with incentive and reputation mechanisms, increasing creator participation by **31%**.
+- Championed continuous A/B testing and iterative UX updates such as media previews and thread nesting, driving a **22%** increase in user engagement.
+
+### Senior Product Analyst, Inveskia Trading
+*Quantitative proprietary trading · Bangalore, India · Jul 2017 – Mar 2021*
+
+- Analyzed trader interaction data on terminals and streamlined order-entry workflows to reduce execution delays and manual errors.
+- Optimized the post-trade analysis workflow, accelerating the feedback loop for quants to test, iterate, and deploy new trading strategies.
+
+## Education
+
+| Degree | Institution | Year |
+| --- | --- | --- |
+| MS, Business Analytics | Foster School of Business, University of Washington | Expected 2027 |
+| Professional Degree, Product Management | Indian School of Business, Hyderabad | 2023 |
+| BSc, Economics & Mathematics | University of Delhi | 2017 |
+
+## Skills
+
+- **Product:** Roadmapping, Discovery, 0→1, Scaling, A/B Testing, Experimentation, UX Research, Market Research, Competitive Analysis, Stakeholder Management, Go-to-Market, MVP, Agile
+- **AI:** LLM Agents, Guardrails, Fallback Strategies, Model Evaluation (Evals), Conversational AI, RAG Architecture, Prompt Engineering, Automatic Speech Recognition, ETL Architecture, LangChain
+- **Tools:** Cursor, Claude Code, Gemini, n8n, LangSmith, LibreChat, Figma, Tableau, SQL, Python, GitHub, Jira, Notion
+
+## Connect
+
+The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/chndrprksh/).
