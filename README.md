@@ -30,6 +30,12 @@ I also build what I spec. The projects below are working, open-source tools.
 | [evoo](https://github.com/chndr-prksh/evoo) | Free voice dictation for Mac that runs 100% on-device. Hold fn, speak, release. | Swift |
 | [Ad-Intel-LinkedIn-](https://github.com/chndr-prksh/Ad-Intel-LinkedIn-) | Crawls the LinkedIn Ad Library, enriches creatives with Gemini, and generates brand and competitor dashboards. | TypeScript |
 
+### Developer tools
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [facet](https://github.com/chndr-prksh/facet) | Open-source responsive design tester: see a site on 290+ phones, tablets and desktops at once, with layout audits on each. Has a [web version](https://chndr-prksh.github.io/facet/), and a CLI and MCP server so AI coding agents can check pages. | TypeScript, Electron |
+
 ### Markets and data
 
 | Project | What it does | Stack |
