@@ -23,6 +23,7 @@ I also build what I spec. The projects below are working, open-source tools.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [frontier-ai-pm](https://github.com/chndr-prksh/frontier-ai-pm) | Daily radar of frontier AI product development (research, labs, repos, models, governance), distilled into a brief for AI PMs. | Python, Claude, GitHub Actions |
 | [shipgate](https://github.com/chndr-prksh/shipgate) | Go/no-go eval harness that scores an AI feature against a quality bar and returns GO / NO-GO with a CI exit code. | Evals, CI |
 | [Enterprise-AI-Chat-Agent](https://github.com/chndr-prksh/Enterprise-AI-Chat-Agent) | AI agent platform with RAG, a file search API, and configurable multi-agent creation for document analysis and content generation. | TypeScript |
 | [murmur](https://github.com/chndr-prksh/murmur) | News-grounded forecasts by Claude, with a one-million-person reaction simulation that runs in the browser. | JavaScript |
