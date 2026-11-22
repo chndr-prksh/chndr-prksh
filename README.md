@@ -5,9 +5,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chndrprksh-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chndrprksh/)
 [![GitHub](https://img.shields.io/badge/GitHub-chndr--prksh-181717?logo=github&logoColor=white)](https://github.com/chndr-prksh)
 
+Senior AI product manager working on agentic AI, multimodal RAG, and LLM evaluation, with public projects in AI agents, developer tools, and market data.
+
 AI-focused Product Manager with 6+ years of experience turning customer problems into 0→1 AI and data products, spanning agentic AI, multimodal RAG, and personalized recommendation systems. I combine customer discovery, product strategy, experimentation, and hands-on technical execution to launch and scale products.
 
-I also build what I spec. The projects below are working, open-source tools.
+I also build what I spec. The projects below are working tools with public source code.
 
 ## Contents
 
@@ -23,12 +25,11 @@ I also build what I spec. The projects below are working, open-source tools.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [frontier-ai-pm](https://github.com/chndr-prksh/frontier-ai-pm) | Daily radar of frontier AI product development (research, labs, repos, models, governance), distilled into a brief for AI PMs. | Python, Claude, GitHub Actions |
 | [shipgate](https://github.com/chndr-prksh/shipgate) | Go/no-go eval harness that scores an AI feature against a quality bar and returns GO / NO-GO with a CI exit code. | Evals, CI |
 | [Enterprise-AI-Chat-Agent](https://github.com/chndr-prksh/Enterprise-AI-Chat-Agent) | AI agent platform with RAG, a file search API, and configurable multi-agent creation for document analysis and content generation. | TypeScript |
-| [murmur](https://github.com/chndr-prksh/murmur) | News-grounded forecasts by Claude, with a one-million-person reaction simulation that runs in the browser. | JavaScript |
+| [murmur](https://github.com/chndr-prksh/murmur) | News-grounded forecasts by Claude, with a one-million-person reaction simulation that runs in the browser. [Try it](https://chndr-prksh.github.io/murmur/). | JavaScript |
 | [Lookout-Assist](https://github.com/chndr-prksh/Lookout-Assist) | Multimodal "point-and-understand" assistant for unfamiliar objects, control panels, foreign-language signs, and software crashes. | TypeScript |
-| [evoo](https://github.com/chndr-prksh/evoo) | Free voice dictation for Mac that runs 100% on-device. Hold fn, speak, release. | Swift |
+| [evoo](https://github.com/chndr-prksh/evoo) | Free voice dictation for Mac that runs 100% on-device. Hold fn, speak, release. [Website](https://chndr-prksh.github.io/evoo/). | Swift |
 | [Ad-Intel-LinkedIn-](https://github.com/chndr-prksh/Ad-Intel-LinkedIn-) | Crawls the LinkedIn Ad Library, enriches creatives with Gemini, and generates brand and competitor dashboards. | TypeScript |
 
 ### Developer tools
@@ -41,9 +42,12 @@ I also build what I spec. The projects below are working, open-source tools.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [ledgerline](https://github.com/chndr-prksh/ledgerline) | Daily rule-based buy / exit / sell signals for liquid US and NSE stocks, with an open method, a backtest, and a public append-only signal log. | Python, GitHub Actions |
-| [pigeonai](https://github.com/chndr-prksh/pigeonai) | Open-source NSE stock scanner and charting site with 53 scans on split/bonus-adjusted end-of-day data. | TypeScript |
-| [pm-jobs-usa](https://github.com/chndr-prksh/pm-jobs-usa) | Product Management job listings across 60+ companies, refreshed automatically every 24 hours. | Python |
+| [ledgerline](https://github.com/chndr-prksh/ledgerline) | Daily rule-based buy / exit / sell signals for liquid US and NSE stocks, with an open method, a backtest, and a public append-only signal log. [Live site](https://chndr-prksh.github.io/ledgerline/). | Python, GitHub Actions |
+| [pigeonai](https://github.com/chndr-prksh/pigeonai) | Open-source NSE stock scanner and charting site with 53 scans on split/bonus-adjusted end-of-day data. [Live site](https://chndr-prksh.github.io/pigeonai/). | TypeScript |
+| [US-Stock-Scanner](https://github.com/chndr-prksh/US-Stock-Scanner) | Computes technical indicators for NYSE and NASDAQ stocks and publishes the results to Google Sheets. | Python, Google Sheets |
+| [pm-jobs-usa](https://github.com/chndr-prksh/pm-jobs-usa) | Product Management job listings from 60+ company career boards, collected by an automated scraper. | Python |
+
+The market projects are for educational and research purposes and are not financial advice.
 
 ## Experience
 
