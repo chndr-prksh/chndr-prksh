@@ -67,11 +67,12 @@ The market projects are for educational and research purposes and are not financ
 - Designed the creator growth roadmap with incentive and reputation mechanisms, increasing creator participation by **31%**.
 - Championed continuous A/B testing and iterative UX updates such as media previews and thread nesting, driving a **22%** increase in user engagement.
 
-### Senior Product Analyst, Inveskia Trading
-*Quantitative proprietary trading · Bangalore, India · Jul 2017 – Mar 2021*
+### Co-Founder/Head of Product & Tech, Inveskia Trading
+*Analytics platform for Stocks, Futures & Options · Bangalore, India · Jul 2017 – Mar 2021*
 
-- Analyzed trader interaction data on terminals and streamlined order-entry workflows to reduce execution delays and manual errors.
-- Optimized the post-trade analysis workflow, accelerating the feedback loop for quants to test, iterate, and deploy new trading strategies.
+- Built and monetized the stock analytics platform from 0→1, generating $60K ARR through premium subscriptions.
+- Led product strategy and development of advanced stock and options scanners, portfolio tracking, watchlists, and market-screening tools, consolidating multiple trading workflows into one platform.
+- Designed end-to-end trader workflows for stock discovery, technical analysis, and options research, translating trader needs into actionable product features.
 
 ## Education
 
