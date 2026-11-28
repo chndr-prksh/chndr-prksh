@@ -51,7 +51,7 @@ The market projects are for educational and research purposes and are not financ
 
 ## Experience
 
-### Senior AI Product Manager, Laminar Group
+### Senior AI Product Manager, Laminar
 *Enterprise SaaS · San Francisco, CA · Dec 2023 – Present*
 
 - Own the AI product portfolio for an enterprise work-management platform serving 100+ enterprise customers managing $10B+ in annual project value; launched packaged AI tiers that drove **$3M in incremental ARR**.
